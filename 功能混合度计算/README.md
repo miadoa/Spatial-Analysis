@@ -10,8 +10,4 @@
 
 - ### Formulation: 
 
-  $$
-  Entropy =  -\sum_{i}^n p_i * log^{p_i}
-  $$
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=Entropy&space;=&space;-\sum_{i}^n&space;p_i&space;*&space;log^{p_i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Entropy&space;=&space;-\sum_{i}^n&space;p_i&space;*&space;log^{p_i}" title="Entropy = -\sum_{i}^n p_i * log^{p_i}" /></a>
+    <a href="https://www.codecogs.com/eqnedit.php?latex=Entropy&space;=&space;-\sum_{i}^n&space;p_i&space;*&space;log^{p_i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Entropy&space;=&space;-\sum_{i}^n&space;p_i&space;*&space;log^{p_i}" title="Entropy = -\sum_{i}^n p_i * log^{p_i}" /></a>
